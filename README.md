@@ -42,6 +42,6 @@ The platform focuses on improving engagement, accessibility, and interactive lea
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/voicelearnx.git
+git clone https://github.com/Likhithreddy99/voicelearnx.git
 cd voicelearnx
 ```
